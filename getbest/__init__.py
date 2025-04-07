@@ -1,1 +1,1 @@
-from Lab2025.getbest import *
+from .getbest import *
